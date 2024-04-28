@@ -30,4 +30,3 @@ Ao final deve se exibir uma mensagem:
 ```text
 O Herói de nome <nome> está no nível de <nivel>"
 ```
-
