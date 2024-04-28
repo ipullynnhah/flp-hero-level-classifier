@@ -1,3 +1,3 @@
 # Hero Level Classifier
 
-Solution for the [Challenge](./CHALLENGE.md).
+Solution for the [Challenge](./CHALLENGE.md)
